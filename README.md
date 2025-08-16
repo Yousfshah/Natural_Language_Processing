@@ -44,7 +44,6 @@ Natural Language Processing (NLP) has always fascinated me — the ability to ma
 ## **🧠 Why I'm Sharing This**
 
 I believe **learning in public** is the fastest way to grow. This repo serves:
-- As my personal learning log 📘  
 - A resource for other NLP beginners 🧑‍💻  
 - A showcase of my progress toward **becoming a top 1% NLP engineer** 🏆
 
